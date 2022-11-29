@@ -19,8 +19,8 @@
   "author": "Chuangker",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^7.0.6",
-    "postcss-load-config": "^2.0.0"
+    "postcss": "^8.4.7",
+    "postcss-load-config": "^4.0.1"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
